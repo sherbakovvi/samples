@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.340,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\RefreshDB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.dfm=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\RefreshDB.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\USchema.dfm=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Schema.dproj=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\USchema.pas=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Documents and Settings\Администратор\Мои документы\RAD Studio\Projects\New1.txt</Transaction>
+  </Transactions>
+</BorlandProject>
